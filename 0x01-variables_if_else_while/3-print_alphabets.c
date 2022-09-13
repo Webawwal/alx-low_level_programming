@@ -15,6 +15,7 @@ int main(void)
 
 	for (ch = 'a'; ch <= 'z'; ch++)
 		putchar(ch);
+
 	for (up = 'A'; up <= 'z'; up++)
 		putchar(up);
 
