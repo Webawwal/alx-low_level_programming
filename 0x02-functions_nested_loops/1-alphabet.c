@@ -7,7 +7,7 @@
  * Description: print alphabets
  * Description: program that prints the alphabets
  * followed by a new line
- * 
+ *
  * Return: Always return 0 (Success)
  * Return: Exit int function with an int 0
  */
