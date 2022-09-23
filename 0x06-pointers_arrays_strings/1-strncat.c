@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strncat -
+ * _strncat - a function that concatenates two strings
  * @dest: A pointer
  * @src: A pointer
  * _strncat - concatenates two strings
@@ -33,3 +33,4 @@ dest[i] = '\0';
 
 return (dest);
 }
+
